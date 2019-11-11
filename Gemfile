@@ -9,7 +9,9 @@ gem 'pg'
 gem 'haml-rails'
 gem 'bootstrap', '~> 4.3.1'
 gem 'seed_dump'
-gem 'devise'
+gem "devise", ">= 4.7.1"
+
+
 
 gem 'puma', '~> 3.11'
 gem 'sass-rails', '~> 5.0'
